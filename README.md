@@ -3,7 +3,6 @@
 ## Görev:
 Aşağıdaki dosyadaki hatayı bul. Butona tıkladığında paragraf görünmelidir. Ancak şu an görünmüyor. Hatayı düzelt ve çalıştır.
 
-**İpucu:** DOM seçiciye dikkat et!
 
 ## Çalıştırmak için:
 Sayfayı aşağıdaki bağlantıdan aç:
